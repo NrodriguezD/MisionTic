@@ -1,1 +1,3 @@
 Nombre: Nelson
+Apellidos: Rodríguez
+email: nrodriguezd@uninorte.edu.co
